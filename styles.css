@@ -1,10 +1,8 @@
 /*styles*/
-.avatar.proportioned {
-  height: auto;
-}
-
-.avatar.distorted {
-  height: 400px;
-  width: 200px;
-
+.container .text{
+  background-color: rgba(255, 255, 0, 0.226);
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  font-size: 60px;
 }
